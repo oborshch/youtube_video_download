@@ -2,4 +2,4 @@
 
 PHP Скрипт для скачивания видео с YouTube
 
-Сайт: http://alexborsch.ho.ua <br>
+[Статья на CoderLOG](https://coderlog.top/projects.php?id=22 "Статья на CoderLOG") <br>
